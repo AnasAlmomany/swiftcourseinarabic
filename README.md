@@ -1,4 +1,4 @@
-# swift course in arabic material
+# iOS/Swift 5 Development in Arabic
 
 
 ![alt text](https://github.com/AnasAlmomany/swiftcourseinarabic/blob/main/image.jpeg?raw=true)
@@ -31,3 +31,5 @@ Don't worry about watching Swift videos if you already know Swift programing.
 لقد صممت هذه الدورة لتأخذك إلى مسار التعلم الموجه. لا يتم تقسيم المحاضرات بموضوعات محددة. أنت تبني تطبيقات ثم تتعلم الكثير من المبادئ داخل تلك التطبيقات. لذا لا تتخطى الفيديوهات!
 إذا كنت تعرف سويفت بالفعل ، فيمكنك تخطي قسم سويفت.
 لا تقلق بشأن مشاهدة مقاطع فيديو سويفت إذا كنت تعرف برمجة سويفت بالفعل.
+
+
